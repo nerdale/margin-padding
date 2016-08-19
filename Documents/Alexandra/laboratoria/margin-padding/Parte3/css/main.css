@@ -1,1 +1,24 @@
 /* Agrega aqui tu CSS */
+.texto {
+
+	width: 200px;
+	height: 240px;
+	border: 2px solid #EC6700;
+	padding: 10px;
+}
+
+.texto2 {
+
+	width: 200px;
+	height: 240px;
+	border: 2px solid #EC6700;
+	padding: 10px;
+}
+
+.texto3 {
+
+	width: 200px;
+	height: 240px;
+	border: 2px solid #EC6700;
+	padding: 10px;
+}
